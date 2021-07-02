@@ -2,6 +2,7 @@ $dokka.format:html-v1
 $dokka.linkExtension:html
 $dokka.location:com.jackchapman.codingchallenges.hackerrank////PointingToDeclaration/coding-challenges/com.jackchapman.codingchallenges.hackerrank/index.html
 $dokka.location:com.jackchapman.codingchallenges.hackerrank//climbingLeaderboard/#kotlin.Array[kotlin.Int]#kotlin.Array[kotlin.Int]/PointingToDeclaration/coding-challenges/com.jackchapman.codingchallenges.hackerrank/climbing-leaderboard.html
+$dokka.location:com.jackchapman.codingchallenges.hackerrank//queensAttack/#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Array[kotlin.IntArray]/PointingToDeclaration/coding-challenges/com.jackchapman.codingchallenges.hackerrank/queens-attack.html
 $dokka.location:com.jackchapman.codingchallenges.hackerrank//twoPluses/#kotlin.Array[kotlin.String]/PointingToDeclaration/coding-challenges/com.jackchapman.codingchallenges.hackerrank/two-pluses.html
 com.jackchapman.codingchallenges.hackerrank
 
